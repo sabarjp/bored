@@ -1,0 +1,88 @@
+goblin
+rat
+wolf
+bandit
+dragon
+ruffian
+thug
+giant spider
+bat
+hydra
+chimera
+snake
+couger
+black bear
+wizard
+witch
+mage
+archer
+giant worm
+tiger
+zombie
+mummy
+lich
+skeleton
+skeleton mage
+skeleton archer
+pony
+manticore
+bear
+corsair
+pirate
+ninja
+mercenary
+eagle
+raptor
+wasp
+hornet
+bee
+armadillo
+lizard
+pony
+tarantula
+cobra
+jaguar
+lynx
+lion
+orc
+troll
+werewolf
+werebear
+wererabbit
+killer bunny
+rhino
+boar
+pig
+piglet
+hawk
+raven
+vulture
+buzzard
+warthog
+insect swarm
+locust swarm
+scarab horde
+unicorn
+cerebus
+griffon
+wyvern
+cockatrice
+hummingbird
+pitchfork mob
+sentient sword
+demon
+succubus
+incubus
+gargoyle
+spirit
+ghast
+ghost
+spectre
+elephant
+stray cat
+dog pack
+knight
+soldier
+swashbuckler
+brigand
+rival adventurer

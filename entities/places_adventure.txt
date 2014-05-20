@@ -1,0 +1,52 @@
+forest
+lake
+dungeon
+sewers
+tower
+mines
+woods
+swamp
+prison
+abandoned keep
+abandoned castle
+lava fields
+volcano
+glacier
+ice caves
+caves
+caverns
+tundra
+jungle
+desert
+ocean
+rain forest
+laboratory
+factory
+warehouse
+giant tree
+ghost town
+ravine
+canyon
+river
+desert
+chasm
+peak
+hills
+mountain
+ruins
+basement
+castle
+lair
+cliffside
+plains
+arena
+pit
+circus
+sky realm
+floating island
+underworld
+netherworld
+wasteland
+badlands
+crash site
+farm

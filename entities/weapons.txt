@@ -1,0 +1,71 @@
+short sword
+dagger
+axe
+longbow
+pistol
+long sword
+bastard sword
+cutlass
+gladius
+scimitar
+club
+mace
+morning flail
+shuriken
+lance
+pike
+scythe
+halberd
+battleaxe
+war axe
+beaded axe
+rifle
+musket
+handgun
+crossbow
+war bow
+short bow
+dirk
+katana
+naginata
+yari
+kama
+chakram
+boomerang
+war blade
+wand
+staff
+greatstaff
+tachi
+nodachi
+zanbato
+uchigatana
+knife
+pipe
+claymore
+tanto
+daisho
+frying pan
+rolling pin
+whip
+broad sword
+cleaver
+magic staff
+revolver
+handcannon
+slingshot
+sling
+sabre
+ice pick
+switchblade
+throwing knives
+ninja stars
+darts
+blowgun
+dart gun
+war darts
+trident
+spear
+harpoon
+spike shield
+bayonet

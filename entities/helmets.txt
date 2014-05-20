@@ -1,0 +1,17 @@
+cap
+skullcap
+mask
+bone helm
+full plate helm
+viking horns
+kabuto
+sallet
+face-guard
+gorget
+pointy-hat
+shroud
+veil
+crown
+tiara
+head band
+umbrella hat

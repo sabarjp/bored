@@ -1,0 +1,12 @@
+town
+hamlet
+village
+city
+keep
+castle
+palace
+shire
+villa
+fortress
+fort
+camp

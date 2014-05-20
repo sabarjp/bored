@@ -1,0 +1,48 @@
+fireball
+lightning bolt
+ice spike
+thorn
+gust
+vortex
+tornado
+deluge
+flood
+hurricane
+shock
+electrocute
+slide
+black hole
+starburst
+flameburst
+flamestrike
+ice pillar
+ice beam
+earth shard
+earthquake
+volcano
+quicksand
+ice shard
+shock wave
+force pulse
+flare
+nova
+thundershock
+chaos bolt
+laser beam
+fire
+mist
+fog
+quake
+sonicboom
+tendrils
+swipe
+sweep
+claw
+slash
+slice
+headbutt
+dropkick
+uppercut
+sting
+entangle
+magic missle

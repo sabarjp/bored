@@ -1,0 +1,11 @@
+tunic
+rags
+chainmail
+platemail
+brigandine
+cuirass
+culet
+plackart
+hauberk
+robes
+cloak
